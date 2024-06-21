@@ -50,7 +50,7 @@ This project combines Optical Character Recognition (OCR) and Named Entity Recog
     pip install -r requirements.txt
     ```
 
-4. Download and install Tesseract OCR from [here](https://github.com/tesseract-ocr/tesseract) and ensure it's added to your system path.
+4. Download and install Tesseract OCR from [here](https://github.com/tesseract-ocr/tesseract) and ensure it's added to your system path. Download the NER model from Hugging Face
 
 ## Usage
 
@@ -81,12 +81,12 @@ This project combines Optical Character Recognition (OCR) and Named Entity Recog
 - Say "Exit" to terminate the application.
 
 ### Acknowledgments
--Tesseract OCR
--Hugging Face Transformers
--OpenCV
--PyTesseract
--Pillow (PIL)
--Pyttsx3
--SpeechRecognition
+- Tesseract OCR
+- Hugging Face Transformers
+- OpenCV
+- PyTesseract
+- Pillow (PIL)
+- Pyttsx3
+- SpeechRecognition
 
 Feel free to contribute to this project by submitting issues or pull requests. 
